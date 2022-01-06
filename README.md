@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/FAYASSERV6/KELLYMOWLV4
+$ cd KELLYMOWLV4
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
