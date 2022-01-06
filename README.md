@@ -128,7 +128,7 @@ Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
+`FAYAS SUBAIR`
 `Afnanplk`
 `Cyberchekuthan`
 `Farhan-Dqz`
