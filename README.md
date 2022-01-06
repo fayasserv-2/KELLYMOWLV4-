@@ -48,7 +48,7 @@ Project created by <a href="https://github.com/FAYASSERV6">FAYASSERV6</a> to mak
 ##
   <h3 align="center">📢 Support Group 1:</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
+Click WA logo to Join MY BOT GROUP Support Group 👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/EXjFwp6nhYm36uxUyLvaHM" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
@@ -57,10 +57,10 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click KELLYMOWLV4 logo to Join Support Group 2👇
+Click KELLYMOWLV4 logo to Join MY OFFICAL GROUP Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BqGr57iRMqrA86LWJzGoxK" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
